@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LanguageLocalization
+
+  Created by Mohammed J Hossain on 11/14/19.
+  Copyright © 2019 Mohammed J Hossain. All rights reserved.
+*/
+"Welcome"="Bienvenido";
+"P1" = "esta es una línea completa";

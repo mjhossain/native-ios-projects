@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "181-CD-1Sx"; */
+"181-CD-1Sx.title" = "Root View Controller";
+
+/* Class = "UIBarButtonItem"; title = "Go Back"; ObjectID = "B2M-Ru-ynt"; */
+"B2M-Ru-ynt.title" = "Go Back";
+
+/* Class = "UIBarButtonItem"; title = "Sign Up"; ObjectID = "e5d-AD-vNM"; */
+"e5d-AD-vNM.title" = "Sign Up";
+
+/* Class = "UIBarButtonItem"; title = "Login"; ObjectID = "rt2-Qs-y9H"; */
+"rt2-Qs-y9H.title" = "Login";
+
+/* Class = "UIBarButtonItem"; title = "Go Back"; ObjectID = "sdi-bF-VgV"; */
+"sdi-bF-VgV.title" = "Go Back";

@@ -1,0 +1,11 @@
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "181-CD-1Sx"; */
+"181-CD-1Sx.title" = "Bienvenido";
+
+/* Class = "UIBarButtonItem"; title = "Sign Up"; ObjectID = "e5d-AD-vNM"; */
+"e5d-AD-vNM.title" = "Regístrate";
+
+/* Class = "UIBarButtonItem"; title = "Login"; ObjectID = "rt2-Qs-y9H"; */
+"rt2-Qs-y9H.title" = "iniciar sesión";
+
+"sdi-bF-VgV.title" = "Atras";

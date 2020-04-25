@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "7ZB-cP-5xn"; */
+"7ZB-cP-5xn.normalTitle" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Roll Dice"; ObjectID = "Diw-zk-8SP"; */
+"Diw-zk-8SP.normalTitle" = "Roll Dice";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "HUM-1f-LYs"; */
+"HUM-1f-LYs.text" = "Total";
+
+/* Class = "UILabel"; text = "Money:"; ObjectID = "JF3-Dx-5eM"; */
+"JF3-Dx-5eM.text" = "Money:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Mom-0G-aow"; */
+"Mom-0G-aow.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Input Guess"; ObjectID = "P15-gr-s5I"; */
+"P15-gr-s5I.placeholder" = "Input Guess";
+
+/* Class = "UILabel"; text = "Below 7"; ObjectID = "PIv-bB-pDg"; */
+"PIv-bB-pDg.text" = "Below 7";
+
+/* Class = "UILabel"; text = "Dice Total: "; ObjectID = "TQI-Pw-vff"; */
+"TQI-Pw-vff.text" = "Dice Total: ";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "VQ2-wG-HjW"; */
+"VQ2-wG-HjW.text" = "Number";
+
+/* Class = "UILabel"; text = "Odd"; ObjectID = "WDy-cR-Cjw"; */
+"WDy-cR-Cjw.text" = "Odd";
+
+/* Class = "UITextField"; placeholder = "000"; ObjectID = "eD5-9G-l1z"; */
+"eD5-9G-l1z.placeholder" = "000";
+
+/* Class = "UILabel"; text = "Bet Amount"; ObjectID = "ePL-Yj-4LO"; */
+"ePL-Yj-4LO.text" = "Bet Amount";
+
+/* Class = "UILabel"; text = "Even"; ObjectID = "or3-LG-iHh"; */
+"or3-LG-iHh.text" = "Even";
+
+/* Class = "UILabel"; text = "Above 7"; ObjectID = "pRz-QK-gSR"; */
+"pRz-QK-gSR.text" = "Above 7";
+
+/* Class = "UILabel"; text = "Please select ONE Option"; ObjectID = "tKu-hV-BIB"; */
+"tKu-hV-BIB.text" = "Please select ONE Option";
